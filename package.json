@@ -1,0 +1,11 @@
+{
+  "name": "js-ninja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MICAHFANG/JavaScript-Ninja.git",
+  "author": {
+    "name": "Micah Fang",
+    "email": "micah.fang@outlook.com"
+  },
+  "license": "MIT"
+}
